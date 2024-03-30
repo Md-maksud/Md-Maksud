@@ -24,3 +24,4 @@ I’m an Experienced Front-End Web Developer. Crafting sleek and user-friendly w
 
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/Md-maksud)  
 
+https://github.com/anuraghazra/github-readme-stats.git
