@@ -7,11 +7,11 @@
 I’m an Experienced Front-End Web Developer. Crafting sleek and user-friendly websites with expertise in HTML, CSS, JavaScript, and WordPress. Let me bring your digital vision to life with pixel-perfect precision and seamless functionality.
 
 ##  Skills & Experiece:
-- ✔️ WordPress
-- ✔️ HTML5 / CSS3 / SASS / Bootstrap
-- ✔️ PHP
-- ✔️ JavaScript
-- ✔️ Photoshop / Illustrator / Figma
+###### ✔️ WordPress
+###### ✔️ HTML5 / CSS3 / SASS / Bootstrap
+###### ✔️ PHP
+###### ✔️ JavaScript
+###### ✔️ Photoshop / Illustrator / Figma
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Md-maksud)  
