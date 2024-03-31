@@ -1,4 +1,4 @@
-(https://www.linkedin.com/in/md-maksud-ba1435263/overlay/background-image/)
+https://media.licdn.com/dms/image/D4D16AQHhYG2t9B0pYA/profile-displaybackgroundimage-shrink_350_1400/0/1711493531365?e=1717632000&v=beta&t=IV-WMzyQWKrDkvTHCG1jE00TrqZ_viY0NggaZhLSi9w
 ## Hello, I'm Md Maksud 👋
 - 💻 Web developer
 - ✍ Like Codding
@@ -6,7 +6,7 @@
 ## About Me
 I’m an Experienced Front-End Web Developer. Crafting sleek and user-friendly websites with expertise in HTML, CSS, JavaScript, and WordPress. Let me bring your digital vision to life with pixel-perfect precision and seamless functionality.
 
-##  Skills & Experiece:
+##  Skills & Experience:
 ###### ✔️ WordPress
 ###### ✔️ HTML5 / CSS3 / SASS / Bootstrap
 ###### ✔️ PHP
